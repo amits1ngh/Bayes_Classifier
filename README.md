@@ -1,5 +1,5 @@
 ## Bayes classifier
-The script will classify the input data vector whose class label is unknown. The script uses bayes decision thory to label the input data vector.
+The script will classify the input data vector whose class label is unknown. The script uses bayes decision to label the input data vector.
 
 ```matlab
 classify.m
