@@ -13,6 +13,6 @@ classify.m
 ### Output: 
 * N-dimensional vector, whose i-th element is the label of the class where the i-th data vector is classified.
 
-
+[Refer for an introduction ](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
 
 
